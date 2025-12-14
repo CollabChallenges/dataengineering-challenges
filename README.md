@@ -9,7 +9,7 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
-| :us: | [Axpo Group](https://www.axpo.com/) | Python, Docker, MQTT | [Code →](https://github.com/axpogroup/hiring-challenges/tree/main/data-engineer-challenge)
+| :switzerland: | [Axpo Group](https://www.axpo.com/) | Python, Docker, MQTT | [Code →](https://github.com/axpogroup/hiring-challenges/tree/main/data-engineer-challenge)
 
 ## Inspiration
 
